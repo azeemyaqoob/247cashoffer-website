@@ -1,0 +1,408 @@
+.main_div_cashoffer_diff {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.heading_cashoofer_diff {
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 46px;
+  letter-spacing: 0em;
+  color: #1c191a;
+  animation: scaleHeading 1s ease-out;
+}
+
+@keyframes scaleHeading {
+  0% {
+    transform: scale(1.3);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.heading_cashoofer_diff_red {
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 46px;
+  letter-spacing: 0em;
+  color: #be302e;
+  animation: scaleHeading 1s ease-out; /* Animation */
+}
+
+@keyframes scaleHeading {
+  0% {
+    transform: scale(1.3);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.para_ul_li_cash_diff {
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: "Inter", Arial, sans-serif;
+  color: #000000;
+  padding-bottom: 20px;
+}
+.get_a_free_offer_btn_cashdiff {
+  width: 324px;
+  height: 60px;
+  border-radius: 7.48px;
+  background: #be302e;
+  color: #ffffff;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center;
+  border-style: none;
+  margin-top: 15px;
+}
+.cashofferdiff_icon{
+  height: auto;
+  animation: slideInFromLeft 1s ease-out; /* Corrected Animation */
+}
+
+/* Keyframes for the corrected animation */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%); /* Start off the screen on the left side */
+  }
+  100% {
+    transform: translateX(0); /* Slide in to original position */
+  }
+}
+@media only screen and (max-width: 1800px) {
+    .main_div_cashoffer_diff {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        background-color: #fff;
+      }
+      .cashofferdiff_icon{
+        width: 100%;
+      }
+      .heading_cashoofer_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 36px;
+        font-weight: 900;
+        line-height: 46px;
+        letter-spacing: 0em;
+        color: #1c191a;
+      }
+      .heading_cashoofer_diff_red {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 36px;
+        font-weight: 900;
+        line-height: 46px;
+        letter-spacing: 0em;
+        color: #be302e;
+      }
+      .para_ul_li_cash_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: "Inter", Arial, sans-serif;
+        color: #000000;
+        padding-bottom: 20px;
+      }
+      .get_a_free_offer_btn_cashdiff {
+        width: 324px;
+        height: 60px;
+        border-radius: 7.48px;
+        background: #be302e;
+        color: #ffffff;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: center;
+        border-style: none;
+        margin-top: 15px;
+      }
+}
+
+
+@media only screen and (max-width: 1400px) {
+    .main_div_cashoffer_diff {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        background-color: #fff;
+      }
+      .cashofferdiff_icon{
+        width: 100%;
+      }
+      .heading_cashoofer_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 28px;
+        font-weight: 900;
+        line-height: 40px;
+        letter-spacing: 0em;
+        color: #1c191a;
+      }
+      .heading_cashoofer_diff_red {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 28px;
+        font-weight: 900;
+        line-height: 40px;
+        letter-spacing: 0em;
+        color: #be302e;
+      }
+      .para_ul_li_cash_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: "Inter", Arial, sans-serif;
+        color: #000000;
+        padding-bottom: 15px;
+      }
+      .get_a_free_offer_btn_cashdiff {
+        width: 324px;
+        height: 60px;
+        border-radius: 7.48px;
+        background: #be302e;
+        color: #ffffff;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: center;
+        border-style: none;
+        margin-top: 15px;
+      }
+}
+
+@media only screen and (max-width: 1200px) {
+    .main_div_cashoffer_diff {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        background-color: #fff;
+      }
+      .cashofferdiff_icon{
+        width: 100%;
+      }
+      .heading_cashoofer_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 900;
+        line-height: 36px;
+        letter-spacing: 0em;
+        color: #1c191a;
+      }
+      .heading_cashoofer_diff_red {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 900;
+        line-height: 36px;
+        letter-spacing: 0em;
+        color: #be302e;
+      }
+      .para_ul_li_cash_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: "Inter", Arial, sans-serif;
+        color: #000000;
+        padding-bottom: 5px;
+      }
+      .get_a_free_offer_btn_cashdiff {
+        width: 210px;
+        height: 60px;
+        border-radius: 7.48px;
+        background: #be302e;
+        color: #ffffff;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: center;
+        border-style: none;
+        margin-top: 10px;
+      }
+}
+
+
+@media only screen and (max-width: 991px) {
+    .main_div_cashoffer_diff {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        background-color: #fff;
+      }
+      .cashofferdiff_icon{
+        width: 100%;
+      }
+      .heading_cashoofer_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 28px;
+        letter-spacing: 0em;
+        color: #1c191a;
+      }
+      .heading_cashoofer_diff_red {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 28px;
+        letter-spacing: 0em;
+        color: #be302e;
+      }
+      .para_ul_li_cash_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: "Inter", Arial, sans-serif;
+        color: #000000;
+        padding-bottom: 2px;
+      }
+      .get_a_free_offer_btn_cashdiff {
+        width: 180px;
+        height: 60px;
+        border-radius: 7.48px;
+        background: #be302e;
+        color: #ffffff;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: center;
+        border-style: none;
+        margin-top: 10px;
+      }
+}
+
+
+@media only screen and (max-width: 767px) {
+    .main_div_cashoffer_diff {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        background-color: #fff;
+      }
+      .cashofferdiff_icon{
+        width: 100%;
+      }
+      .heading_cashoofer_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 28px;
+        letter-spacing: 0em;
+        color: #1c191a;
+        margin-top: 30px;
+      }
+      .heading_cashoofer_diff_red {
+        margin-top: 30px;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 28px;
+        letter-spacing: 0em;
+        color: #be302e;
+      }
+      .para_ul_li_cash_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: "Inter", Arial, sans-serif;
+        color: #000000;
+        padding-bottom: 2px;
+      }
+      .get_a_free_offer_btn_cashdiff {
+        width: 180px;
+        height: 60px;
+        border-radius: 7.48px;
+        background: #be302e;
+        color: #ffffff;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: center;
+        border-style: none;
+        margin-top: 10px;
+      }
+}
+
+
+@media only screen and (max-width: 380px) {
+    .main_div_cashoffer_diff {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        background-color: #fff;
+      }
+      .cashofferdiff_icon{
+        width: 100%;
+      }
+      .heading_cashoofer_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 900;
+        line-height: 22px;
+        letter-spacing: 0em;
+        color: #1c191a;
+        margin-top: 30px;
+      }
+      .heading_cashoofer_diff_red {
+        margin-top: 30px;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 900;
+        line-height: 22px;
+        letter-spacing: 0em;
+        color: #be302e;
+      }
+      .para_ul_li_cash_diff {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: "Inter", Arial, sans-serif;
+        color: #000000;
+        padding-bottom: 0px;
+      }
+      .get_a_free_offer_btn_cashdiff {
+        width: 150px;
+        height: 60px;
+        border-radius: 7.48px;
+        background: #be302e;
+        color: #ffffff;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: center;
+        border-style: none;
+        margin-top: 10px;
+      }
+}

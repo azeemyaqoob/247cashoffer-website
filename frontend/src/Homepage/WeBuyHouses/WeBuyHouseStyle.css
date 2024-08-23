@@ -1,0 +1,191 @@
+.main_div_webuyhouses {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  padding-bottom: 7%;
+}
+.dolariconstyle {
+  margin-top: 80px;
+  width: 100%;
+  height: auto;
+}
+.webuyhouses_desp_div {
+  margin-top: 80px;
+  margin-left: 5%;
+  width: 95%;
+  height: auto;
+}
+.buyhouses_heading {
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 38px;
+  font-weight: 900;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.buyhouses_desp {
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-right: 20%;
+}
+@media only screen and (max-width: 1400px) {
+
+    .main_div_webuyhouses {
+        width: 100%;
+        height: auto;
+        background-color: white;
+        padding-bottom: 7%;
+      }
+      .dolariconstyle {
+        margin-top: 80px;
+        width: 100%;
+        height: auto;
+      }
+      .webuyhouses_desp_div {
+        margin-top: 80px;
+        margin-left: 5%;
+        width: 95%;
+        height: auto;
+      }
+      .buyhouses_heading {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 32px;
+        font-weight: 900;
+        line-height: 38px;
+        letter-spacing: 0em;
+        text-align: left;
+      }
+      .buyhouses_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        padding-right: 20%;
+      }
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+    .main_div_webuyhouses {
+        width: 100%;
+        height: auto;
+        background-color: white;
+        padding-bottom: 7%;
+      }
+      .dolariconstyle {
+        margin-top: 80px;
+        width: 100%;
+        height: auto;
+      }
+      .webuyhouses_desp_div {
+        margin-top: 80px;
+        margin-left: 5%;
+        width: 95%;
+        height: auto;
+      }
+      .buyhouses_heading {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 26px;
+        font-weight: 900;
+        line-height: 34px;
+        letter-spacing: 0em;
+        text-align: left;
+      }
+      .buyhouses_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0em;
+        text-align: left;
+        padding-right: 20%;
+      }
+
+}
+
+
+@media only screen and (max-width: 991px) {
+
+    .main_div_webuyhouses {
+        width: 100%;
+        height: auto;
+        background-color: white;
+        padding-bottom: 7%;
+      }
+      .dolariconstyle {
+        margin-top: 80px;
+        width: 100%;
+        height: auto;
+      }
+      .webuyhouses_desp_div {
+        margin-top: 80px;
+        margin-left: 5%;
+        width: 95%;
+        height: auto;
+      }
+      .buyhouses_heading {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 900;
+        line-height: 28px;
+        letter-spacing: 0em;
+        text-align: left;
+      }
+      .buyhouses_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0em;
+        text-align: left;
+        padding-right: 20%;
+      }
+
+}
+
+
+@media only screen and (max-width: 500px) {
+
+    .main_div_webuyhouses {
+        width: 100%;
+        height: auto;
+        background-color: white;
+        padding-bottom: 7%;
+      }
+      .dolariconstyle {
+        margin-top: 80px;
+        width: 100%;
+        height: auto;
+      }
+      .webuyhouses_desp_div {
+        margin-top: 80px;
+        margin-left: 5%;
+        width: 95%;
+        height: auto;
+      }
+      .buyhouses_heading {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 900;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+      }
+      .buyhouses_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: left;
+        padding-right: 20%;
+      }
+
+}

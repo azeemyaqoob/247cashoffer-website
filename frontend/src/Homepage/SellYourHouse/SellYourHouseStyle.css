@@ -1,0 +1,593 @@
+@media only screen and (max-width: 2700px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: 575px;
+    background: #d9d9d9;
+    overflow: hidden;
+  }
+  .sellyourhouseicon {
+    margin-top: 80px;
+    width: 100%;
+    height: auto;
+    animation: slideInFromLeft 1s ease-out; /* Animation */
+  }
+  
+  /* Keyframes for the animation */
+  @keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%); /* Start off the screen */
+    }
+    100% {
+      transform: translateX(0); /* Slide in to original position */
+    }
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 80px;
+    margin-left: 6%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 60px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 324px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+  }
+}
+
+@media only screen and (max-width: 2200px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: 575px;
+    background: #d9d9d9;
+  }
+  .sellyourhouseicon {
+    margin-top: 80px;
+    height: 422.81px;
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 80px;
+    margin-left: 6%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 60px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 324px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+  }
+}
+
+@media only screen and (max-width: 1650px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: 575px;
+    background: #d9d9d9;
+  }
+  .sellyourhouseicon {
+    margin-top: 80px;
+    height: 422.81px;
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 80px;
+    margin-left: 6%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 60px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 324px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+  }
+}
+
+@media only screen and (max-width: 1450px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: 575px;
+    background: #d9d9d9;
+  }
+  .sellyourhouseicon {
+    margin-top: 80px;
+    width: 100%;
+    height: auto;
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 80px;
+    margin-left: 6%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 60px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 324px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: 575px;
+    background: #d9d9d9;
+  }
+  .sellyourhouseicon {
+    margin-top: 80px;
+    width: 100%;
+    height: auto;
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 80px;
+    margin-left: 6%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 60px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 250px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+  }
+}
+
+@media only screen and (max-width: 1020px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: 575px;
+    background: #d9d9d9;
+  }
+  .sellyourhouseicon {
+    margin-top: 80px;
+    width: 100%;
+    height: auto;
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 80px;
+    margin-left: 6%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 20px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: auto;
+    background: #d9d9d9;
+  }
+  .sellyourhouseicon {
+    margin-top: 80px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 40px;
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 0px;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 20px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+    margin-bottom: 20%;
+  }
+}
+
+@media only screen and (max-width: 525px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: auto;
+    background: #d9d9d9;
+  }
+  .sellyourhouseicon {
+    margin-top: 20px;
+    margin-right: 0%;
+    margin-bottom: 20px;
+    width: 100%;
+    height: auto;
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 0px;
+    margin-left: 0%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 20px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+    margin-bottom: 20%;
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  .main_div_sell_your_house {
+    width: 100% !important;
+    height: auto;
+    background: #d9d9d9;
+  }
+  .sellyourhouseicon {
+    margin-top: 20px;
+    margin-right: 0%;
+    margin-bottom: 20px;
+    height: 100%;
+    width: 100%;
+  }
+  .main_div_sell_youhouse_description {
+    margin-top: 0px;
+    margin-left: 0%;
+    width: 90%;
+  }
+  .sell_your_house_heading {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1c191a;
+  }
+  .sell_your_house_heading_red {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 8px;
+    color: #be302e;
+  }
+  .main_ul_li_div {
+    margin-top: 20px;
+  }
+  .ul_li_para {
+    color: #000000;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .get_free_offer_sell_your_house {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 180px;
+    height: 60px;
+    border-radius: 10px;
+    background: #be302e;
+    color: #ffffff;
+    border-style: none;
+    margin-top: 60px;
+    margin-bottom: 20%;
+  }
+}

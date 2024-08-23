@@ -1,0 +1,432 @@
+.main_ready_to_sell {
+  width: 100%;
+  height: auto;
+  padding-bottom: 5%;
+  background-color: #d9d9d9;
+  padding-top: 5%;
+}
+.bigiconstyle{
+    width: 100%;
+    height: 378px;
+}
+.ready_to_sell_heading {
+  color: #1c191a;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 35px;
+}
+.ready_tosell_desp {
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  margin-top: 35px;
+  padding-right: 10%;
+}
+.get_your_free_offer_button_readytosell{
+    color: #ffffff;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: center;
+    background: #be302e;
+    width: 330px;
+    height: 60px;
+    border-radius: 10px;
+    border-style: none;
+    border-color: none;
+    margin-top: 7%;
+}
+
+@media only screen and (max-width: 1850px) {
+    .main_ready_to_sell {
+        width: 100%;
+        height: auto;
+        padding-bottom: 5%;
+        background-color: #d9d9d9;
+        padding-top: 5%;
+      }
+      .bigiconstyle{
+          width: 100%;
+          height: 378px;
+      }
+      .ready_to_sell_heading {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 40px;
+        font-weight: 900;
+        line-height: 52px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-top: 35px;
+      }
+      .ready_tosell_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 24px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000000;
+        margin-top: 35px;
+        padding-right: 10%;
+      }
+      .get_your_free_offer_button_readytosell{
+          color: #ffffff;
+          font-family: "Inter", Arial, sans-serif;
+          font-size: 24px;
+          font-weight: 700;
+          line-height: 29.05px;
+          text-align: center;
+          background: #be302e;
+          width: 330px;
+          height: 60px;
+          border-radius: 10px;
+          border-style: none;
+          border-color: none;
+          margin-top: 7%;
+      }
+      
+
+}
+
+
+
+@media only screen and (max-width: 1550px) {
+    .main_ready_to_sell {
+        width: 100%;
+        height: auto;
+        padding-bottom: 5%;
+        background-color: #d9d9d9;
+        padding-top: 5%;
+      }
+      .bigiconstyle{
+          width: 100%;
+          height: 378px;
+      }
+      .ready_to_sell_heading {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 34px;
+        font-weight: 900;
+        line-height: 42px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-top: 75px;
+      }
+      .ready_tosell_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000000;
+        margin-top: 35px;
+        padding-right: 10%;
+      }
+      .get_your_free_offer_button_readytosell{
+          color: #ffffff;
+          font-family: "Inter", Arial, sans-serif;
+          font-size: 20px;
+          font-weight: 700;
+          line-height: 29.05px;
+          text-align: center;
+          background: #be302e;
+          width: 250px;
+          height: 60px;
+          border-radius: 10px;
+          border-style: none;
+          border-color: none;
+          margin-top: 7%;
+      }
+      
+
+}
+
+
+@media only screen and (max-width: 1300px) {
+    .main_ready_to_sell {
+        width: 100%;
+        height: auto;
+        padding-bottom: 5%;
+        background-color: #d9d9d9;
+        padding-top: 5%;
+      }
+      .bigiconstyle{
+          width: 100%;
+          height: 378px;
+      }
+      .ready_to_sell_heading {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 26px;
+        font-weight: 900;
+        line-height: 38px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-top: 75px;
+      }
+      .ready_tosell_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000000;
+        margin-top: 35px;
+        padding-right: 25%;
+      }
+      .get_your_free_offer_button_readytosell{
+          color: #ffffff;
+          font-family: "Inter", Arial, sans-serif;
+          font-size: 18px;
+          font-weight: 700;
+          line-height: 29.05px;
+          text-align: center;
+          background: #be302e;
+          width: 220px;
+          height: 60px;
+          border-radius: 10px;
+          border-style: none;
+          border-color: none;
+          margin-top: 7%;
+      }
+      
+
+}
+
+
+@media only screen and (max-width: 995px) {
+    .main_ready_to_sell {
+        width: 100%;
+        height: auto;
+        padding-bottom: 5%;
+        background-color: #d9d9d9;
+        padding-top: 5%;
+      }
+      .bigiconstyle{
+          width: 100%;
+          height: 378px;
+      }
+      .ready_to_sell_heading {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 22px;
+        font-weight: 900;
+        line-height: 38px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-top: 75px;
+      }
+      .ready_tosell_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 16px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000000;
+        margin-top: 35px;
+        padding-right: 25%;
+      }
+      .get_your_free_offer_button_readytosell{
+          color: #ffffff;
+          font-family: "Inter", Arial, sans-serif;
+          font-size: 16px;
+          font-weight: 700;
+          line-height: 29.05px;
+          text-align: center;
+          background: #be302e;
+          width: 190px;
+          height: 60px;
+          border-radius: 10px;
+          border-style: none;
+          border-color: none;
+          margin-top: 7%;
+      }
+      
+
+}
+
+@media only screen and (max-width: 855px) {
+    .main_ready_to_sell {
+        width: 100%;
+        height: auto;
+        padding-bottom: 5%;
+        background-color: #d9d9d9;
+        padding-top: 5%;
+      }
+      .bigiconstyle{
+          width: 100%;
+          height: 378px;
+      }
+      .ready_to_sell_heading {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-top: 75px;
+      }
+      .ready_tosell_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 22px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000000;
+        margin-top: 35px;
+        padding-right: 25%;
+      }
+      .get_your_free_offer_button_readytosell{
+          color: #ffffff;
+          font-family: "Inter", Arial, sans-serif;
+          font-size: 14px;
+          font-weight: 700;
+          line-height: 29.05px;
+          text-align: center;
+          background: #be302e;
+          width: 170px;
+          height: 60px;
+          border-radius: 10px;
+          border-style: none;
+          border-color: none;
+          margin-top: 7%;
+      }
+      
+
+}
+
+@media only screen and (max-width: 767px) {
+    .main_ready_to_sell {
+        width: 100%;
+        height: auto;
+        padding-bottom: 5%;
+        background-color: #d9d9d9;
+        padding-top: 5%;
+      }
+      .bigiconstyle{
+          width: 50%;
+          margin-left: 25%;
+          height: 378px;
+      }
+      .ready_to_sell_heading {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: 75px;
+      }
+      .ready_tosell_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 22px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #000000;
+        margin-top: 35px;
+        padding-right: 10%;
+        padding-left: 10%;
+      }
+      .get_your_free_offer_button_readytosell{
+          color: #ffffff;
+          font-family: "Inter", Arial, sans-serif;
+          font-size: 14px;
+          font-weight: 700;
+          line-height: 29.05px;
+          text-align: center;
+          background: #be302e;
+          width: 30%;
+          height: 60px;
+          border-radius: 10px;
+          border-style: none;
+          border-color: none;
+          margin-top: 4%;
+          margin-left: 35%;
+          text-align: center;
+      }
+      
+
+}
+
+
+@media only screen and (max-width: 525px) {
+    .main_ready_to_sell {
+        width: 100%;
+        height: auto;
+        padding-bottom: 5%;
+        background-color: #d9d9d9;
+        padding-top: 5%;
+      }
+      .bigiconstyle{
+          width: 50%;
+          margin-left: 25%;
+          height: 378px;
+      }
+      .ready_to_sell_heading {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 900;
+        line-height: 28px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: 75px;
+      }
+      .ready_tosell_desp {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 22px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #000000;
+        margin-top: 35px;
+        padding-right: 10%;
+        padding-left: 10%;
+      }
+      .get_your_free_offer_button_readytosell{
+          color: #ffffff;
+          font-family: "Inter", Arial, sans-serif;
+          font-size: 14px;
+          font-weight: 700;
+          line-height: 29.05px;
+          text-align: center;
+          background: #be302e;
+          width: 50%;
+          height: 60px;
+          border-radius: 10px;
+          border-style: none;
+          border-color: none;
+          margin-top: 4%;
+          margin-left: 25%;
+          text-align: center;
+      }
+      
+
+}

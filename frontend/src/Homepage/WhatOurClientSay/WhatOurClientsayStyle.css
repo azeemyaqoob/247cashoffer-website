@@ -1,0 +1,407 @@
+.main_whatourclientsay {
+  background-color: #d9d9d9;
+  height: auto;
+  width: 100%;
+  padding-bottom: 3%;
+}
+.heading_what_our {
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 58px;
+  font-weight: 900;
+  line-height: 70px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: 5%;
+}
+.clientsayicon {
+  margin-top: 30px;
+  width: 100%;
+  height: auto;
+  animation: slideInFromLeft 1s ease-out; /* Corrected Animation */
+}
+
+/* Keyframes for the corrected animation */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%); /* Start off the screen on the left side */
+  }
+  100% {
+    transform: translateX(0); /* Slide in to original position */
+  }
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: .75;
+  color: #000;
+}
+
+.slick-dots li button:before {
+  font-size: 18px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+.main_div_slider {
+  margin-top: 40px;
+  width: 90%;
+  height: 382.88px;
+  border-radius: 23.93px;
+  background: #ffffff;
+}
+.para_review {
+  color: #1c191a;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 10%;
+}
+.slick-prev:before {
+  display: none !important;
+}
+.slick-next {
+    display: none !important;
+}
+.slick-prev {
+    display: none !important;
+}
+.slick-next:before,
+[dir="rtl"] .slick-prev:before {
+  display: none !important;
+}
+.heading_review {
+  color: #1c191a;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding-top: 10%;
+}
+
+
+
+@media only screen and (max-width: 1440px) {
+
+
+
+    .main_whatourclientsay {
+        background-color: #d9d9d9;
+        height: auto;
+        padding-bottom: 3%;
+      }
+      .heading_what_our {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 42px;
+        font-weight: 900;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: 5%;
+      }
+      .clientsayicon {
+        margin-top: 30px;
+        width: 100%;
+        height: auto;
+      }
+      .main_div_slider {
+        margin-top: 40px;
+        width: 100%;
+        height: 332.88px;
+        border-radius: 23.93px;
+        background: #ffffff;
+      }
+      .para_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 10%;
+      }
+      .slick-prev:before {
+        display: none;
+      }
+      .slick-next:before,
+      [dir="rtl"] .slick-prev:before {
+        display: none;
+      }
+      .heading_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 31px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-top: 10%;
+      }
+      
+      
+}
+
+
+@media only screen and (max-width: 1200px) {
+
+
+
+    .main_whatourclientsay {
+        background-color: #d9d9d9;
+        height: auto;
+        padding-bottom: 3%;
+      }
+      .heading_what_our {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 34px;
+        font-weight: 900;
+        line-height: 40px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: 5%;
+      }
+      .clientsayicon {
+        margin-top: 30px;
+        width: 100%;
+        height: auto;
+      }
+      .main_div_slider {
+        margin-top: 40px;
+        width: 100%;
+        height: 270px;
+        border-radius: 23.93px;
+        background: #ffffff;
+      }
+      .para_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 10%;
+      }
+      .slick-prev:before {
+        display: none;
+      }
+      .slick-next:before,
+      [dir="rtl"] .slick-prev:before {
+        display: none;
+      }
+      .heading_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 31px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-top: 10%;
+      }
+      
+      
+}
+
+
+@media only screen and (max-width: 991px) {
+
+
+
+    .main_whatourclientsay {
+        background-color: #d9d9d9;
+        height: auto;
+        padding-bottom: 3%;
+      }
+      .heading_what_our {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 900;
+        line-height: 40px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: 5%;
+      }
+      .clientsayicon {
+        margin-top: 30px;
+        width: 100%;
+        height: auto;
+      }
+      .main_div_slider {
+        margin-top: 40px;
+        width: 100%;
+        height: 190px;
+        border-radius: 23.93px;
+        background: #ffffff;
+      }
+      .para_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top:4%;
+      }
+      .slick-prev:before {
+        display: none;
+      }
+      .slick-next:before,
+      [dir="rtl"] .slick-prev:before {
+        display: none;
+      }
+      .heading_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 31px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-top: 2%;
+      }
+      
+      
+}
+
+
+@media only screen and (max-width: 767px) {
+
+
+
+    .main_whatourclientsay {
+        background-color: #d9d9d9;
+        height: auto;
+        padding-bottom: 10%;
+      }
+      .heading_what_our {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 900;
+        line-height: 40px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: 5%;
+      }
+      .clientsayicon {
+        margin-top: 30px;
+        width: 100%;
+        height: auto;
+      }
+      .main_div_slider {
+        margin-top: 40px;
+        width: 100%;
+        height: 240px;
+        border-radius: 23.93px;
+        background: #ffffff;
+        padding-bottom: 10%;
+      }
+      .para_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top:8%;
+      }
+      .slick-prev:before {
+        display: none;
+      }
+      .slick-next:before,
+      [dir="rtl"] .slick-prev:before {
+        display: none;
+      }
+      .heading_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 31px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-top: 4%;
+      }
+      
+      
+}
+
+
+@media only screen and (max-width: 400px) {
+
+
+
+    .main_whatourclientsay {
+        background-color: #d9d9d9;
+        height: auto;
+        padding-bottom: 10%;
+      }
+      .heading_what_our {
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 40px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: 5%;
+      }
+      .clientsayicon {
+        margin-top: 30px;
+        width: 100%;
+        height: auto;
+      }
+      .main_div_slider {
+        margin-top: 40px;
+        width: 100%;
+        height: 240px;
+        border-radius: 23.93px;
+        background: #ffffff;
+        padding-bottom: 10%;
+      }
+      .para_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top:8%;
+      }
+      .slick-prev:before {
+        display: none;
+      }
+      .slick-next:before,
+      [dir="rtl"] .slick-prev:before {
+        display: none;
+      }
+      .heading_review {
+        color: #1c191a;
+        font-family: "Inter", Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 31px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-top: 4%;
+      }
+      
+      
+}

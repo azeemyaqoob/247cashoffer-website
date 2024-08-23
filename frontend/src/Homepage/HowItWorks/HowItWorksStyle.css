@@ -1,0 +1,873 @@
+.main_div_HowItWorksStyle {
+  width: 100%!important;
+  height: auto!important;
+  overflow: hidden!important;
+}
+.how_it_work_para {
+  color: #1C191A!important;
+  font-family: "Inter", Arial, sans-serif!important;
+  font-size: 36px!important;
+  font-weight: 500!important;
+  line-height: 43.57px!important;
+  text-align: center!important;
+  margin-top: 3%!important;
+}
+.heading_haveanoffer {
+  color: #1C191A!important;
+  font-family: "Inter", Arial, sans-serif!important;
+  font-size: 54px!important;
+  font-weight: 900!important;
+  line-height: 77.45px!important;
+  text-align: center!important;
+  animation: scaleHeading 1s ease-out!important;
+}
+
+@keyframes scaleHeading {
+  0% {
+    transform: scale(1.3)!important;
+  }
+  100% {
+    transform: scale(1)!important;
+  }
+}
+.main_div_card_upper {
+  width: 90%!important;
+  margin-left: 5%!important;
+}
+.main_div_card {
+  border: 1px solid #1C191A!important;
+  border-color: #1C191A !important;
+  width: 100%!important;
+  height: 457.76px!important;
+  border-radius: 30px 30px 30px 30px!important;
+
+  
+  margin-top: 80px!important;
+  margin-bottom: 10%!important;
+}
+.elipse_icon {
+  transform: translateY(-50%)!important;
+  margin-left: 8%!important;
+  width: 91.39px!important;
+  height: 91.39px!important;
+
+}
+.submityouraddressheading {
+  font-family: "Inter", Arial, sans-serif!important;
+font-size: 28px!important;
+font-weight: 800!important;
+line-height: 34px!important;
+letter-spacing: 0em!important;
+text-align: center!important;
+  padding-left: 5%!important;
+  padding-right: 5%!important;
+  color: #1C191A !important;
+}
+.submityouraddresspara {
+  color: #000000!important;
+  font-family: "Inter", Arial, sans-serif!important;
+  font-size: 22px!important;
+  font-weight: 400!important;
+  line-height: 27px!important;
+  letter-spacing: 0em!important;
+  text-align: center!important;
+  padding-top: 15%!important;
+  padding-left: 15%!important;
+  padding-right: 15%!important;
+}
+
+.get_free_offer_button_howitwork {
+  background: #be302e!important;
+  width: 324px!important;
+  height: 60px!important;
+  border-radius: 10px 10px 10px 10px!important;
+  color: #ffffff!important;
+  font-family: "Inter", Arial, sans-serif!important;
+  font-size: 24px!important;
+  font-weight: 700!important;
+  line-height: 29.05px!important;
+  text-align: center!important;
+  border-style: none!important;
+  margin-top: 3%!important;
+}
+.takesalessthanpara{
+    color: #1C191A!important;
+    font-family: "Inter", Arial, sans-serif!important;
+    font-size: 36px!important;
+    font-style: italic!important;
+    font-weight: 500!important;
+    line-height: 43.57px!important;
+    text-align: center!important;
+    margin-top: 2%!important;
+    margin-bottom: 5%!important;
+}
+
+@media only screen and (max-width: 1430px) {
+
+    .main_div_HowItWorksStyle {
+        width: 100%!important;
+        height: auto!important;
+      }
+      .how_it_work_para {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 30px!important;
+        font-weight: 500!important;
+        line-height: 43.57px!important;
+        text-align: center!important;
+        margin-top: 3%!important;
+      }
+      .heading_haveanoffer {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 44px!important;
+        font-weight: 900!important;
+        line-height: 77.45px!important;
+        text-align: center!important;
+      }
+      .main_div_card_upper {
+        width: 90%!important;
+        margin-left: 5%!important;
+      }
+      .main_div_card {
+        border: 1px solid #1C191A!important;
+        width: 100%!important;
+        border-color: #1C191A !important;
+        height: 457.76px!important;
+        border-radius: 30px 30px 30px 30px!important;
+
+        
+        margin-top: 80px!important;
+        margin-bottom: 10%!important;
+      }
+      .elipse_icon {
+        transform: translateY(-50%)!important;
+        margin-left: 8%!important;
+        width: 91.39px!important;
+        height: 91.39px!important;
+      
+      }
+      .submityouraddressheading {
+        font-family: "Inter", Arial, sans-serif!important;
+      font-size: 26px!important;
+      font-weight: 800!important;
+      line-height: 34px!important;
+      letter-spacing: 0em!important;
+      text-align: center!important;
+        padding-left: 5%!important;
+        padding-right: 5%!important;
+      }
+      .submityouraddresspara {
+        color: #000000!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 18px!important;
+        font-weight: 400!important;
+        line-height: 27px!important;
+        letter-spacing: 0em!important;
+        text-align: center!important;
+        padding-top: 15%!important;
+        padding-left: 15%!important;
+        padding-right: 15%!important;
+      }
+      
+      .get_free_offer_button_howitwork {
+        background: #be302e!important;
+        width: 324px!important;
+        height: 60px!important;
+        border-radius: 10px 10px 10px 10px!important;
+        color: #ffffff!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 24px!important;
+        font-weight: 700!important;
+        line-height: 29.05px!important;
+        text-align: center!important;
+        border-style: none!important;
+        margin-top: 3%!important;
+      }
+      .takesalessthanpara{
+          color: #1C191A!important;
+          font-family: "Inter", Arial, sans-serif!important;
+          font-size: 36px!important;
+          font-style: italic!important;
+          font-weight: 500!important;
+          line-height: 43.57px!important;
+          text-align: center!important;
+          margin-top: 2%!important;
+          margin-bottom: 5%!important;
+      }
+      
+
+}
+
+
+@media only screen and (max-width: 1200px) {
+
+    .main_div_HowItWorksStyle {
+        width: 100%!important;
+        height: auto!important;
+      }
+      .how_it_work_para {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 26px!important;
+        font-weight: 500!important;
+        line-height: 43.57px!important;
+        text-align: center!important;
+        margin-top: 3%!important;
+      }
+      .heading_haveanoffer {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 36px!important;
+        font-weight: 900!important;
+        line-height: 77.45px!important;
+        text-align: center!important;
+      }
+      .main_div_card_upper {
+        width: 90%!important;
+        margin-left: 5%!important;
+      }
+      .main_div_card {
+        border: 1px solid #1C191A!important;
+        width: 100%!important;
+        height: 457.76px!important;
+        border-radius: 30px 30px 30px 30px!important;
+
+        border-color: #1C191A !important;
+        margin-top: 80px!important;
+        margin-bottom: 10%!important;
+      }
+      .elipse_icon {
+        transform: translateY(-50%)!important;
+        margin-left: 8%!important;
+        width: 61.39px!important;
+        height: 61.39px!important;
+      
+      }
+      .submityouraddressheading {
+        font-family: "Inter", Arial, sans-serif!important;
+      font-size: 22px!important;
+      font-weight: 800!important;
+      line-height: 34px!important;
+      letter-spacing: 0em!important;
+      text-align: center!important;
+        padding-left: 5%!important;
+        padding-right: 5%!important;
+      }
+      .submityouraddresspara {
+        color: #000000!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 16px!important;
+        font-weight: 400!important;
+        line-height: 27px!important;
+        letter-spacing: 0em!important;
+        text-align: center!important;
+        padding-top: 15%!important;
+        padding-left: 15%!important;
+        padding-right: 15%!important;
+      }
+      
+      .get_free_offer_button_howitwork {
+        background: #be302e!important;
+        width: 324px!important;
+        height: 60px!important;
+        border-radius: 10px 10px 10px 10px!important;
+        color: #ffffff!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 24px!important;
+        font-weight: 700!important;
+        line-height: 29.05px!important;
+        text-align: center!important;
+        border-style: none!important;
+        margin-top: 3%!important;
+      }
+      .takesalessthanpara{
+          color: #1C191A!important;
+          font-family: "Inter", Arial, sans-serif!important;
+          font-size: 36px!important;
+          font-style: italic!important;
+          font-weight: 500!important;
+          line-height: 43.57px!important;
+          text-align: center!important;
+          margin-top: 2%!important;
+          margin-bottom: 5%!important;
+      }
+      
+
+}
+
+
+
+@media only screen and (max-width: 1032px) {
+
+    .main_div_HowItWorksStyle {
+        width: 100%!important;
+        height: auto!important;
+      }
+      .how_it_work_para {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 24px!important;
+        font-weight: 500!important;
+        line-height: 43.57px!important;
+        text-align: center!important;
+        margin-top: 3%!important;
+      }
+      .heading_haveanoffer {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 30px!important;
+        font-weight: 900!important;
+        line-height: 77.45px!important;
+        text-align: center!important;
+      }
+      .main_div_card_upper {
+        width: 90%!important;
+        margin-left: 5%!important;
+      }
+      .main_div_card {
+        border: 1px solid #1C191A!important;
+        width: 100%!important;
+        height: 357.76px!important;
+        border-radius: 30px 30px 30px 30px!important;
+        border-color: #1C191A !important;
+        margin-top: 80px!important;
+        margin-bottom: 10%!important;
+      }
+      .elipse_icon {
+        transform: translateY(-50%)!important;
+        margin-left: 8%!important;
+        width: 61.39px!important;
+        height: 61.39px!important;
+      
+      }
+      .submityouraddressheading {
+        font-family: "Inter", Arial, sans-serif!important;
+      font-size: 18px!important;
+      font-weight: 800!important;
+      line-height: 34px!important;
+      letter-spacing: 0em!important;
+      text-align: center!important;
+        padding-left: 5%!important;
+        padding-right: 5%!important;
+      }
+      .submityouraddresspara {
+        color: #000000!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 14px!important;
+        font-weight: 400!important;
+        line-height: 27px!important;
+        letter-spacing: 0em!important;
+        text-align: center!important;
+        padding-top: 15%!important;
+        padding-left: 15%!important;
+        padding-right: 15%!important;
+      }
+      
+      .get_free_offer_button_howitwork {
+        background: #be302e!important;
+        width: 250px!important;
+        height: 60px!important;
+        border-radius: 10px 10px 10px 10px!important;
+        color: #ffffff!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 16px!important;
+        font-weight: 700!important;
+        line-height: 29.05px!important;
+        text-align: center!important;
+        border-style: none!important;
+        margin-top: 3%!important;
+      }
+      .takesalessthanpara{
+          color: #1C191A!important;
+          font-family: "Inter", Arial, sans-serif!important;
+          font-size: 26px!important;
+          font-style: italic!important;
+          font-weight: 500!important;
+          line-height: 43.57px!important;
+          text-align: center!important;
+          margin-top: 2%!important;
+          margin-bottom: 5%!important;
+      }
+      
+
+}
+
+
+@media only screen and (max-width:991px) {
+
+    .main_div_HowItWorksStyle {
+        width: 100%!important;
+        height: auto!important;
+      }
+      .how_it_work_para {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 24px!important;
+        font-weight: 500!important;
+        line-height: 43.57px!important;
+        text-align: center!important;
+        margin-top: 3%!important;
+      }
+      .heading_haveanoffer {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 30px!important;
+        font-weight: 900!important;
+        line-height: 77.45px!important;
+        text-align: center!important;
+      }
+      .main_div_card_upper {
+        width: 90%!important;
+        margin-left: 5%!important;
+      }
+      .main_div_card {
+        border: 1px solid #1C191A!important;
+        width: 100%!important;
+        height: 357.76px!important;
+        border-radius: 30px 30px 30px 30px!important;
+
+        border-color: #1C191A !important;
+        margin-top: 80px!important;
+        margin-bottom: 10%!important;
+      }
+      .elipse_icon {
+        transform: translateY(-50%)!important;
+        margin-left: 8%!important;
+        width: 61.39px!important;
+        height: 61.39px!important;
+      
+      }
+      .submityouraddressheading {
+        font-family: "Inter", Arial, sans-serif!important;
+      font-size: 18px!important;
+      font-weight: 800!important;
+      line-height: 24px!important;
+      letter-spacing: 0em!important;
+      text-align: center!important;
+        padding-left: 23%!important;
+        padding-right: 23%!important;
+      }
+      .submityouraddresspara {
+        color: #000000!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 14px!important;
+        font-weight: 400!important;
+        line-height: 27px!important;
+        letter-spacing: 0em!important;
+        text-align: center!important;
+        padding-top: 15%!important;
+        padding-left: 15%!important;
+        padding-right: 15%!important;
+      }
+      
+      .get_free_offer_button_howitwork {
+        background: #be302e!important;
+        width: 250px!important;
+        height: 60px!important;
+        border-radius: 10px 10px 10px 10px!important;
+        color: #ffffff!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 16px!important;
+        font-weight: 700!important;
+        line-height: 29.05px!important;
+        text-align: center!important;
+        border-style: none!important;
+        margin-top: 3%!important;
+      }
+      .takesalessthanpara{
+          color: #1C191A!important;
+          font-family: "Inter", Arial, sans-serif!important;
+          font-size: 26px!important;
+          font-style: italic!important;
+          font-weight: 500!important;
+          line-height: 43.57px!important;
+          text-align: center!important;
+          margin-top: 2%!important;
+          margin-bottom: 5%!important;
+      }
+      
+
+}
+
+
+@media only screen and (max-width:767px) {
+
+    .main_div_HowItWorksStyle {
+        width: 100%!important;
+        height: auto!important;
+      }
+      .how_it_work_para {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 24px!important;
+        font-weight: 500!important;
+        line-height: 43.57px!important;
+        text-align: center!important;
+        margin-top: 3%!important;
+      }
+      .heading_haveanoffer {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 26px!important;
+        font-weight: 900!important;
+        line-height: 57.45px!important;
+        text-align: center!important;
+      }
+      .main_div_card_upper {
+        width: 90%!important;
+        margin-left: 5%!important;
+      }
+      .main_div_card {
+        border: 1px solid #1C191A!important;
+        width: 100%!important;
+        margin-left: 0%!important;
+        height: 357.76px!important;
+        border-radius: 30px 30px 30px 30px!important;
+        border-color: #1C191A !important;
+        margin-top: 80px!important;
+        margin-bottom: 10%!important;
+      }
+      .elipse_icon {
+        transform: translateY(-50%)!important;
+        margin-left: 8%!important;
+        width: 61.39px!important;
+        height: 61.39px!important;
+      
+      }
+      .submityouraddressheading {
+        font-family: "Inter", Arial, sans-serif!important;
+      font-size: 18px!important;
+      font-weight: 800!important;
+      line-height: 24px!important;
+      letter-spacing: 0em!important;
+      text-align: center!important;
+        padding-left: 15%!important;
+        padding-right: 15%!important;
+      }
+      .submityouraddresspara {
+        color: #000000!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 14px!important;
+        font-weight: 400!important;
+        line-height: 27px!important;
+        letter-spacing: 0em!important;
+        text-align: center!important;
+        padding-top: 15%!important;
+        padding-left: 10%!important;
+        padding-right: 10%!important;
+      }
+      
+      .get_free_offer_button_howitwork {
+        background: #be302e!important;
+        width: 250px!important;
+        height: 60px!important;
+        border-radius: 10px 10px 10px 10px!important;
+        color: #ffffff!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 16px!important;
+        font-weight: 700!important;
+        line-height: 29.05px!important;
+        text-align: center!important;
+        border-style: none!important;
+        margin-top: 3%!important;
+      }
+      .takesalessthanpara{
+          color: #1C191A!important;
+          font-family: "Inter", Arial, sans-serif!important;
+          font-size: 26px!important;
+          font-style: italic!important;
+          font-weight: 500!important;
+          line-height: 43.57px!important;
+          text-align: center!important;
+          margin-top: 2%!important;
+          margin-bottom: 5%!important;
+      }
+      
+
+}
+
+
+@media only screen and (max-width:610px) {
+
+    .main_div_HowItWorksStyle {
+        width: 100%!important;
+        height: auto!important;
+      }
+      .how_it_work_para {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 24px!important;
+        font-weight: 500!important;
+        line-height: 43.57px!important;
+        text-align: center!important;
+        margin-top: 3%!important;
+      }
+      .heading_haveanoffer {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 20px!important;
+        font-weight: 900!important;
+        line-height: 27.45px!important;
+        text-align: center!important;
+      }
+      .main_div_card_upper {
+        width: 100%!important;
+        margin-left: 0%!important;
+      }
+      .main_div_card {
+        border: 1px solid #1C191A!important;
+        width: 100%!important;
+        margin-left: 0%!important;
+        height: 357.76px!important;
+        border-radius: 30px 30px 30px 30px!important;  
+        margin-top: 80px!important;
+        margin-bottom: 10%!important;
+      }
+      .elipse_icon {
+        transform: translateY(-50%)!important;
+        margin-left: 8%!important;
+        width: 61.39px!important;
+        height: 61.39px!important;
+      
+      }
+      .submityouraddressheading {
+        font-family: "Inter", Arial, sans-serif!important;
+      font-size: 18px!important;
+      font-weight: 800!important;
+      line-height: 24px!important;
+      letter-spacing: 0em!important;
+      text-align: center!important;
+        padding-left: 10%!important;
+        padding-right: 10%!important;
+      }
+      .submityouraddresspara {
+        color: #000000!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 14px!important;
+        font-weight: 400!important;
+        line-height: 27px!important;
+        letter-spacing: 0em!important;
+        text-align: center!important;
+        padding-top: 15%!important;
+        padding-left: 10%!important;
+        padding-right: 10%!important;
+      }
+      
+      .get_free_offer_button_howitwork {
+        background: #be302e!important;
+        width: 200px!important;
+        height: 60px!important;
+        border-radius: 10px 10px 10px 10px!important;
+        color: #ffffff!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 14px!important;
+        font-weight: 700!important;
+        line-height: 29.05px!important;
+        text-align: center!important;
+        border-style: none!important;
+        margin-top: 3%!important;
+      }
+      .takesalessthanpara{
+          color: #1C191A!important;
+          font-family: "Inter", Arial, sans-serif!important;
+          font-size: 20px!important;
+          font-style: italic!important;
+          font-weight: 500!important;
+          line-height: 43.57px!important;
+          text-align: center!important;
+          margin-top: 2%!important;
+          margin-bottom: 5%!important;
+      }
+      
+
+}
+
+@media only screen and (max-width:575px) {
+
+  .main_div_HowItWorksStyle {
+      width: 100%!important;
+      height: auto!important;
+    }
+    .how_it_work_para {
+      color: #1C191A!important;
+      font-family: "Inter", Arial, sans-serif!important;
+      font-size: 16px!important;
+      font-weight: 500!important;
+      line-height: 43.57px!important;
+      text-align: center!important;
+      margin-top: 3%!important;
+    }
+    .heading_haveanoffer {
+      color: #1C191A!important;
+      font-family: "Inter", Arial, sans-serif!important;
+      font-size: 20px!important;
+      font-weight: 900!important;
+      line-height: 27.45px!important;
+      text-align: center!important;
+    }
+    .main_div_card_upper {
+      width: 60%!important;
+      margin-left: 20%!important;
+    }
+    .main_div_card {
+      border: 1px solid #1C191A!important;
+      width: 100%!important;
+      margin-left: 0%!important;
+      height: 357.76px!important;
+      border-radius: 30px 30px 30px 30px!important;
+      margin-top: 80px!important;
+      margin-bottom: 10%!important;
+    }
+    .elipse_icon {
+      transform: translateY(-50%)!important;
+      margin-left: 8%!important;
+      width: 61.39px!important;
+      height: 61.39px!important;
+    
+    }
+    .submityouraddressheading {
+      font-family: "Inter", Arial, sans-serif!important;
+    font-size: 18px!important;
+    font-weight: 800!important;
+    line-height: 24px!important;
+    letter-spacing: 0em!important;
+    text-align: center!important;
+      padding-left: 10%!important;
+      padding-right: 10%!important;
+    }
+    .submityouraddresspara {
+      color: #000000!important;
+      font-family: "Inter", Arial, sans-serif!important;
+      font-size: 14px!important;
+      font-weight: 400!important;
+      line-height: 27px!important;
+      letter-spacing: 0em!important;
+      text-align: center!important;
+      padding-top: 15%!important;
+      padding-left: 10%!important;
+      padding-right: 10%!important;
+    }
+    
+    .get_free_offer_button_howitwork {
+      background: #be302e!important;
+      width: 180px!important;
+      height: 60px!important;
+      border-radius: 10px 10px 10px 10px!important;
+      color: #ffffff!important;
+      font-family: "Inter", Arial, sans-serif!important;
+      font-size: 12px!important;
+      font-weight: 700!important;
+      line-height: 29.05px!important;
+      text-align: center!important;
+      border-style: none!important;
+      margin-top: 3%!important;
+    }
+    .takesalessthanpara{
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 16px!important;
+        font-style: italic!important;
+        font-weight: 500!important;
+        line-height: 43.57px!important;
+        text-align: center!important;
+        margin-top: 2%!important;
+        margin-bottom: 5%!important;
+    }
+
+}
+
+@media only screen and (max-width:410px) {
+
+    .main_div_HowItWorksStyle {
+        width: 100%!important;
+        height: auto!important;
+      }
+      .how_it_work_para {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 16px!important;
+        font-weight: 500!important;
+        line-height: 43.57px!important;
+        text-align: center!important;
+        margin-top: 3%!important;
+      }
+      .heading_haveanoffer {
+        color: #1C191A!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 20px!important;
+        font-weight: 900!important;
+        line-height: 27.45px!important;
+        text-align: center!important;
+      }
+      .main_div_card_upper {
+        width: 90%!important;
+        margin-left: 5%!important;
+      }
+      .main_div_card {
+        border: 1px solid #1C191A!important;
+        border-color: #1C191A!important;
+        width: 100%!important;
+        margin-left: 0%!important;
+        height: 357.76px!important;
+        border-radius: 30px 30px 30px 30px!important;
+        margin-top: 80px!important;
+        margin-bottom: 10%!important;
+      }
+      .elipse_icon {
+        transform: translateY(-50%)!important;
+        margin-left: 8%!important;
+        width: 61.39px!important;
+        height: 61.39px!important;
+      
+      }
+      .submityouraddressheading {
+        font-family: "Inter", Arial, sans-serif!important;
+      font-size: 18px!important;
+      font-weight: 800!important;
+      line-height: 24px!important;
+      letter-spacing: 0em!important;
+      text-align: center!important;
+        padding-left: 10%!important;
+        padding-right: 10%!important;
+      }
+      .submityouraddresspara {
+        color: #000000!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 14px!important;
+        font-weight: 400!important;
+        line-height: 27px!important;
+        letter-spacing: 0em!important;
+        text-align: center!important;
+        padding-top: 15%!important;
+        padding-left: 10%!important;
+        padding-right: 10%!important;
+      }
+      
+      .get_free_offer_button_howitwork {
+        background: #be302e!important;
+        width: 180px!important;
+        height: 60px!important;
+        border-radius: 10px 10px 10px 10px!important;
+        color: #ffffff!important;
+        font-family: "Inter", Arial, sans-serif!important;
+        font-size: 12px!important;
+        font-weight: 700!important;
+        line-height: 29.05px!important;
+        text-align: center!important;
+        border-style: none!important;
+        margin-top: 3%!important;
+      }
+      .takesalessthanpara{
+          color: #1C191A!important;
+          font-family: "Inter", Arial, sans-serif!important;
+          font-size: 16px!important;
+          font-style: italic!important;
+          font-weight: 500!important;
+          line-height: 43.57px!important;
+          text-align: center!important;
+          margin-top: 2%!important;
+          margin-bottom: 5%!important;
+      }
+
+}
